@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Practica7PMDM</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="restaurantes">Restaurantes</string>
+    <string name="cines">Cines</string>
+    <string name="tiendas">Tiendas</string>
+    <string name="parques">Parques</string>
+    <string name="pubs">PUBS</string>
+    <string name="todos">Todos</string>
+    <string name="Nombre">Nombre</string>
+    <string name="categoria">Categoría</string>
+    <string name="latitud">Latitud</string>
+    <string name="longitud">Longitud</string>
+    <string name="valoracion">Valoración</string>
+    <string name="comentario">Comentario</string>
+    <string name="editar">Editar</string>
+    <string name="borrar">Borrar</string>
+    <string name="guardar">Guardar</string>
+    <string name="ok">Ok</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="no" translatable="false">No</string>
+    <string name="si">Si</string>
+    <string name="conexionoff">Conexión OFF</string>
+    <string name="conexionon">Conexión ON</string>
+    <string name="activarGPS">¿Desea activar la función de GPS?</string>
+    <string name="gpsNo">El GPS está desactivado</string>
+    <string name="permisos">Necesitas permisos para ejecutar la aplicación</string>
+    <string name="toastEditado">Editado de forma correcta</string>
+    <string name="toastCreado">Creado de forma correcta</string>
+    <string name="toastEliminado">Eliminado de forma correcta</string>
+    <string name="eliminar">Eliminar</string>
+    <string name="confirmareliminar">¿Desea eliminar esta información?</string>
+    <string name="eliminarInformacion">Eliminar Información</string>
+    <string name="informacion">Informacion</string>
+    <string name="edicion">Editar/Añadir Sitio</string>
+
+
+</resources>

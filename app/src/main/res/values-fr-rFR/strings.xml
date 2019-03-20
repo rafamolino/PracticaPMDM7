@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Practica7PMDM</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="restaurantes">Restaurants</string>
+    <string name="cines">Cinemas</string>
+    <string name="tiendas">Boutiques</string>
+    <string name="parques">Parcs</string>
+    <string name="pubs">PUBS</string>
+    <string name="todos">Tous</string>
+    <string name="Nombre">Nom</string>
+    <string name="categoria">Categorie</string>
+    <string name="latitud">Latitude</string>
+    <string name="longitud">Longeur</string>
+    <string name="valoracion">Evaluation</string>
+    <string name="comentario">Commentaire</string>
+    <string name="editar">Editer</string>
+    <string name="borrar">Supprimer</string>
+    <string name="eliminar">Supprimer</string>
+    <string name="guardar">Sauvegarder</string>
+    <string name="ok">Ok</string>
+    <string name="cancelar">Annules</string>
+    <string name="si">Oui</string>
+    <string name="conexionoff">Connexion On</string>
+    <string name="conexionon">Connexion OFF</string>
+    <string name="activarGPS">Voulez/vous activer l`option GPS?</string>
+    <string name="gpsNo">GPS desactive</string>
+    <string name="permisos">Vous avez besoin de permis</string>
+    <string name="informacion">Les Informations</string>
+    <string name="edicion">Edition</string>
+    <string name="confirmareliminar">Voulez-vous supprimer les informations?</string>
+    <string name="eliminarInformacion">Supprimer informations</string>
+    <string name="toastEliminado">Supprime correctement</string>
+    <string name="toastCreado">Cree correctement</string>
+    <string name="toastEditado">Edite correctement</string>
+</resources>
